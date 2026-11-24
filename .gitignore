@@ -25,3 +25,5 @@ venv/
 #macOS
 .DS_Store
 
+#Active unpublished analyses
+noteboooks/
