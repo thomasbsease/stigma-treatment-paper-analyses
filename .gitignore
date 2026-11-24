@@ -1,0 +1,27 @@
+gitignore
+# Research data -- never commit
+
+data/
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.sas7bdat
+*.data
+
+# Unpublished outputs
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+#Secrets / enviroment files
+.enviroment
+
+#macOS
+.DS_Store
+
