@@ -26,4 +26,5 @@ venv/
 .DS_Store
 
 #Active unpublished analyses
-noteboooks/
+notebooks/
+
